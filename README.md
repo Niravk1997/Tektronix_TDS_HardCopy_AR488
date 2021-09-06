@@ -5,4 +5,4 @@
 #### [AR488 Adapter](https://github.com/Twilight-Logic/AR488)
 
 #### Tektronix TDS HardCopy Utility
-![TDS HardCopy Utility GIF](https://raw.githubusercontent.com/Niravk1997/Tektronix_TDS_HardCopy_AR488/main/Images/TDS_HardCopy_Utility.gif?token=AMREYPESWH4VGJ2SDEKTQMTBGVQGM)
+![TDS HardCopy Utility GIF](https://github.com/Niravk1997/Tektronix_TDS_HardCopy_AR488/blob/f470bf8ba9cea3592ddd73a82f0ac4cba8083749/Images/TDS_HardCopy_Utility.gif)
